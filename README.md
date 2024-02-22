@@ -47,6 +47,14 @@ Jupiter:  <br/>
 <br />
 Saturn:  <br/>
 <img src="https://i.imgur.com/Ir0B9L3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Uranus:  <br/>
+<img src="https://i.imgur.com/3nCf3am.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Neptune:  <br/>
+<img src="https://i.imgur.com/j0dwa9j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
