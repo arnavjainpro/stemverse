@@ -1,4 +1,4 @@
-<h1>Active Home Directory</h1>
+<h1>STEMVERSE</h1>
 
 <h2>Description</h2>
 The project consists of several components such as an interactive website, popups, mini quizzes, and fun animations. This project aims to encourage the younger audience to get started with a career in STEM and learn more about each career option in a fun and interactive experience.
