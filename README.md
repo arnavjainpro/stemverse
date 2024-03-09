@@ -67,7 +67,7 @@ Neptune:  <br/>
 <div class="contact-info">
     <p><strong>Name:</strong> Arnav Jain</p>
     <p><strong>Email:</strong> <a href="mailto:your.email@example.com">arnavjainpro@gmail.com</a></p>
-    <p><strong>Project Link:</strong> <a href="https://github.com/yourusername/yourprojectname">https://github.com/arnavjainpro/stemverse/tree/main</a></p>
+    <p><strong>Project Link:</strong> <a href="https://github.com/yourusername/yourprojectname">https://github.com/arnavjainpro/stemverse</a></p>
 </div>
 
 <!--
