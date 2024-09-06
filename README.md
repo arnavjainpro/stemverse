@@ -11,6 +11,7 @@ career option in a fun and interactive experience.
 <pre class="code-block">
 - <b>HTML</b> 
 - <b>React</b>
+- <b>Figma</b>
 </pre>
 
 <h2>Environments Used </h2>
